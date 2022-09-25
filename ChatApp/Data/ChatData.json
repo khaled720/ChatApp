@@ -1,0 +1,46 @@
+[
+
+  {
+    "massage": [ "hi", "hello" ],
+    "response": [ "Hello", "Hey", "Howdy", "Welcome " ]
+  },
+  {
+    "massage": [ "how are you", "how are you doing" ],
+    "response": [ "I'm fine,what about you?", "I'm good and you", "Not bad", "faboules" ]
+
+  },
+  {
+    "massage": [ "who are you", "identity", "tell me about you", "who you", "who r u" ],
+    "response": [ "I'm a Chatbot designed to help you :) " ]
+
+
+  },
+  {
+    "massage": [ "great", "cool", "good", "perfect", "ok", "awesome" ],
+    "response": [ "great", "cool", "good", "perfect", "ok", "awesome" ]
+
+
+  },
+
+  {
+    "massage": [ "where are you from", "your country", "hometown", "where r u from", "you from", "u from" ],
+    "response": [ "I'm from Egypt", "I'm from Egypt Waht about you?" ]
+
+
+  },
+  
+
+  {
+    "massage": [ "tell me a joke", "joke", "laugh" ],
+    "response": [
+      "a guy told his friend i have an appointment with the doctor and i do not want to go his freind said tell him i am sick :) :)",
+      "a guy slept late so he  missed the beginning of the dream",
+      "Student: teacher can you punish me for something i did not do \n Teacher: No of course \n Student: i did not solve my homework :)  "
+    ]
+  }
+
+
+
+
+
+]

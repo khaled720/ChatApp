@@ -1,0 +1,36 @@
+[
+
+    {
+      "massage": [ "hi", "hello" ],
+      "response": [ "Hello", "Hey", "Howdy", "Welcome " ]
+    },
+    {
+      "massage": [ "how are you", "how are you doing" ],
+      "response": ["I'm fine,what about you?","I'm good and you","Not bad","faboules"]
+
+    }
+    ,
+    {
+      "massage": [ "who are you", "identity", "tell me about you", "who you","who r u" ],
+      "response": [ "I'm a Chatbot designed to help you :) " ]
+
+
+    },
+    
+    {
+      "massage": [ "tell me a joke", "joke", "laugh" ],
+      "response": ["kkkkkk","zzzzzzz","llllll"]
+
+
+    }
+
+
+
+
+
+  ]
+
+  
+
+
+
